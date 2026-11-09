@@ -17,6 +17,7 @@ contact.db-wal
 *.userosscache
 *.sln.docstates
 *.env
+*.db
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
